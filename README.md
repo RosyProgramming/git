@@ -1,2 +1,2 @@
 # git
-Aprendendo sobre git
+list de comandos do git 
